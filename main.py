@@ -1,7 +1,7 @@
-#welcome message
+# welcome message
 print("Welcome to Art's tip calculator.\n")
 
-#these are the inputs bill, total ppl and tip %
+# these are the inputs bill, total ppl and tip %
 bill_total = float(input("What was the total bill amt?\n$"))
 total_people = int(input("How many total people?:\n"))
 tip_percentage = float(
